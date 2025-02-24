@@ -1,0 +1,14 @@
+version:3465
+autoJump:false
+realmsNotifications:false
+guiScale:3
+resourcePacks:["vanilla","fabric","file/generated.zip","file/resourcepack_custom_sounds.zip"]
+incompatibleResourcePacks:["file/resourcepack_custom_sounds.zip"]
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false
+key_key.chat:key.keyboard.enter
+soundCategory_master:0.4
+soundCategory_music:0.0
