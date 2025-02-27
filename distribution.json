@@ -191,7 +191,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 413,
+            "size": 287,
             "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -204,28 +204,6 @@
             "size": 42,
             "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.20.1/files/optionsshaders.txt",
             "path": "optionsshaders.txt"
-          }
-        },
-        {
-          "id": "generated.zip",
-          "name": "generated.zip",
-          "type": "File",
-          "artifact": {
-            "size": 9894917,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "fcf2221f16099281c11269259a18c39f",
-            "path": "resourcepacks/generated.zip"
-          }
-        },
-        {
-          "id": "resourcepack_custom_sounds.zip",
-          "name": "resourcepack_custom_sounds.zip",
-          "type": "File",
-          "artifact": {
-            "size": 2374151,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.20.1/files/resourcepacks/resourcepack_custom_sounds.zip",
-            "MD5": "acc642c6bd949f8ab2bebfaa98c3c3e7",
-            "path": "resourcepacks/resourcepack_custom_sounds.zip"
           }
         },
         {

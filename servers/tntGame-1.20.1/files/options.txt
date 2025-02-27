@@ -2,8 +2,7 @@ version:3465
 autoJump:false
 realmsNotifications:false
 guiScale:3
-resourcePacks:["vanilla","fabric","file/generated.zip","file/resourcepack_custom_sounds.zip"]
-incompatibleResourcePacks:["file/resourcepack_custom_sounds.zip"]
+resourcePacks:["vanilla","fabric"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
