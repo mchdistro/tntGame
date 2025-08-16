@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "tntGame-1.21.4",
+      "id": "tntGame_v2-1.21.4",
       "name": "티엔티 게임",
       "description": "Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://github.com/mchdistro/tntGame/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 578977,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.3.jar",
             "MD5": "fcf0f59c7f45c751af04527080bc4e28"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12191569,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
             "MD5": "dde3cf502defa8513b1fb98afbc2dd11"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -181,7 +181,7 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -190,9 +190,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 186,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/files/options.txt",
+            "size": 319,
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "CustomSoundPack.zip",
+          "name": "CustomSoundPack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1242105,
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/files/resourcepacks/CustomSoundPack.zip",
+            "MD5": "c3721568517208e94907c35738532521",
+            "path": "resourcepacks/CustomSoundPack.zip"
           }
         },
         {
@@ -201,7 +212,7 @@
           "type": "File",
           "artifact": {
             "size": 159,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/files/servers.dat",
             "MD5": "c0a94dd771e81ee398caff98ae40d85a",
             "path": "servers.dat"
           }
@@ -212,7 +223,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }

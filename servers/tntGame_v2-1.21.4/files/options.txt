@@ -1,6 +1,8 @@
 version:4189
 narrator:0
 autoJump:false
+resourcePacks:["vanilla","fabric","file/CustomSoundPack.zip"]
+incompatibleResourcePacks:["koreanpatch","file/CustomSoundPack.zip"]
 lang:ko_kr
 tutorialStep:none
 skipMultiplayerWarning:true
