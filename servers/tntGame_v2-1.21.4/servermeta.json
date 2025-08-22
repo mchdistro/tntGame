@@ -5,7 +5,7 @@
     "name": "티엔티 게임",
     "description": "Minecraft 1.21.4 (Fabric v0.17.2)",
     "icon": "https://github.com/mchdistro/tntGame/raw/main/server-icon.png",
-    "address": "hxxstella.co.kr",
+    "address": "hxxstella.co.kr:25570",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
