@@ -161,8 +161,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12191569,
-            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
+            "url": "https://github.com/mchdistro/tntGame/raw/main/servers/tntGame_v2-1.21.4/fabricmods/optionalon/plasmovoice-fabric-1.21.4-2.1.5.jar",
             "MD5": "dde3cf502defa8513b1fb98afbc2dd11"
+          },
+          "required": {
+            "value": false
           }
         },
         {
